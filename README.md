@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 👋, Nisan here
 
+
+"Life is really simple, but we insist on making it complicated." — Confucius
 <!--
 **NisanRana/NisanRana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +14,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
+- ⚡ Fun fact:
+ CAPTCHA stands for "Completely Automated   Public Turing test to tell Computers and   Humans Apart."
+
+- Quotes:
+  "We are what we repeatedly do. Excellence, then, is not an act, but a habit." — Aristotle
+
+  "Do not take life too seriously. You will never get out of it alive."
+  — Elbert Hubbard
+
+  
