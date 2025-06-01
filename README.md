@@ -29,5 +29,6 @@ Here are some ideas to get you started:
   ### Certifications
 <p>
 <img src="https://github.com/NisanRana/NisanRana/blob/main/aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS Badge" width="150">
-<img src="https://github.com/NisanRana/NisanRana/blob/main/Nisan%20Rana%20-%20Python-Certificate.png" alt="python certificate" width="240">
+<img src="https://github.com/NisanRana/NisanRana/blob/main/Nisan%20Rana%20-%20Python-Certificate.png" alt="python certificate" width="230">
+ <img src="https://github.com/NisanRana/NisanRana/blob/main/Nisan%20Rana%20-%20Pandas.png" alt="pandas certificate" width="230">
 </p>
