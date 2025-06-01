@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   — Elbert Hubbard
   ### Certifications
 
-![AWS Badge](https://github.com/NisanRana/NisanRana/blob/main/aws-academy-graduate-aws-academy-cloud-foundations.png)
 
   
+
+<img src="https://github.com/NisanRana/NisanRana/blob/main/aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS Badge" width="150">
