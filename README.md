@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
   "Do not take life too seriously. You will never get out of it alive."
   — Elbert Hubbard
-  ### Certifications
-
-
   
-
+  ### Certifications
+<p>
 <img src="https://github.com/NisanRana/NisanRana/blob/main/aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS Badge" width="150">
+<img src="https://github.com/NisanRana/NisanRana/blob/main/Nisan%20Rana%20-%20Python-Certificate.png" alt="python certificate" width="240">
+</p>
