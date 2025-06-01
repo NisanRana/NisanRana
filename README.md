@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-- ⚡ Fun fact:
- CAPTCHA stands for "Completely Automated   Public Turing test to tell Computers and   Humans Apart."
+ #### ⚡ Fun fact:
+- CAPTCHA stands for "Completely Automated   Public Turing test to tell Computers and   Humans Apart."
 
-- Quotes:
-  "We are what we repeatedly do. Excellence, then, is not an act, but a habit." — Aristotle
+ #### Quotes:
+-  "We are what we repeatedly do. Excellence, then, is not an act, but a habit." — Aristotle
 
-  "Do not take life too seriously. You will never get out of it alive."
+-  "Do not take life too seriously. You will never get out of it alive."
   — Elbert Hubbard
   
   ### Certifications
