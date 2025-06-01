@@ -1,7 +1,5 @@
 ## Hi there 👋, Nisan here
-### Certifications
 
-![AWS Badge](assets/aws.png)
 
 
 "Life is really simple, but we insist on making it complicated." — Confucius
@@ -27,6 +25,8 @@ Here are some ideas to get you started:
 
   "Do not take life too seriously. You will never get out of it alive."
   — Elbert Hubbard
-  
+  ### Certifications
+
+![AWS Badge](https://github.com/NisanRana/NisanRana/blob/main/aws-academy-graduate-aws-academy-cloud-foundations.png)
 
   
